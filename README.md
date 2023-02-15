@@ -1,5 +1,6 @@
 # Bug-Tracker-React-App
 Created a simple React app intended to list bugs in your project
+![Screen Shot 2023-02-15 at 5 42 42 PM](https://user-images.githubusercontent.com/52251052/219206564-d27cbcdf-7520-476c-b391-0bb9170284d9.png)
 
 ## Getting Started with Create React App
 
